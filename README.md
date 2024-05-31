@@ -7,12 +7,13 @@
 - macOS: Monterey
 - BASE EFI: OpencCore 8.6
 # ACPI
-- SSDT-EC-USBX-LAPTOP.aml
-- SSDT-HPET.aml
-- SSDT-PLUG-DRTNIA.aml
-- SSDT-PNLF.aml
-- SSDT-SBUS-MCHC.aml
-- SSDT-XOSI.aml
+- SSDT-EC-USBX-LAPTOP.aml 修复USB电源
+- SSDT-HPET.aml 修复IRQ冲突
+- SSDT-PLUG-DRTNIA.aml 修复电源管理
+- SSDT-PNLF.aml 修复背光
+- SSDT-SBUS-MCHC.aml 修复SMBus
+- SSDT-XOSI.aml 修复触摸板
+- SSDT-GPRW.aml 修复睡眠即醒
 # Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
