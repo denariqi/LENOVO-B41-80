@@ -40,9 +40,9 @@
 - RealtekRTL8111.kext
 - SATA-100-series-unsupported.kext
 - BrightnessKeys.kext
-- ECEnabler.kext
-- HibernationFixup.kext
-- CpuTscSync.kext
+- ECEnabler.kext （Not necessary）
+- HibernationFixup.kext （Not necessary）
+- CpuTscSync.kext （Not necessary）
 - ApplePS2SmartTouchPad.kext
 # Bluesnooze
 - Bluesnooze prevents your sleeping Mac from connecting to Bluetooth accessories.If you pair Bluetooth headphones or speakers with both your phone & Mac it can be frustrating when your sleeping Mac connects intermittently and disrupts the audio.With Bluesnooze the Bluetooth connection is switched off when your Mac sleeps, and switched on when your Mac wakes.
